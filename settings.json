@@ -3,6 +3,6 @@
     "name": "FlashArray Ruby SDK",
     "filter": "devops",
     "image": "https://code.purestorage.com/images/31_purest.png",
-    "featured": 1,
+    "featured": 0,
     "priority": 3
 }
